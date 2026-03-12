@@ -34,9 +34,12 @@ The project evaluates key financial indicators such as:
 - `Group Work.pbix` – Power BI dashboard
 - `Group_14_Report.pdf` – final report
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
 
 ## Report
+
 The full analysis and conclusions can be found in the report:
 
-📄 Group Report  
-:contentReference[oaicite:0]{index=0}
+📄 [Group Report](Group_14_Report.pdf)
