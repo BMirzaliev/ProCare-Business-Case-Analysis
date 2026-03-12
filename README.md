@@ -36,7 +36,11 @@ The project evaluates key financial indicators such as:
 
 ## Dashboard Preview
 
+### Financial Overview
 ![Dashboard](dashboard.png)
+
+### Project Performance
+![Dashboard](dashboard2.png)
 
 ## Report
 
