@@ -42,4 +42,4 @@ The project evaluates key financial indicators such as:
 
 The full analysis and conclusions can be found in the report:
 
-📄 [Group Report](Group_14_Report.pdf)
+📄 [Group Report](Group%2014_Report.pdf)
